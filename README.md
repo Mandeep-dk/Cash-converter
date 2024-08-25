@@ -14,5 +14,5 @@ A simple and intuitive Currency Converter application that allows users to conve
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mandeep-dk/cash-converter.git
+   git clone https://github.com/Mandeep-dk/Cash-converter.git
    ```
